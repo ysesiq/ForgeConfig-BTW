@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "forge_config",
+  "version": "0.1.0",
+  "depends": {
+    "minecraft": "1.6.4"
+  },
+  "environment": "*",
+  "name": "Forge Config",
+  "icon": "forge_config.png",
+  "description": "MinecraftForge config system port to BTW",
+  "license": "LGPLv2.1",
+  "authors": [
+    "Forge Development LLC",
+    "Xy_Lose"
+  ]
+}
